@@ -1,5 +1,5 @@
 ANALISIS UI 
 
-![ui1](./ui1.jpeg)
+![iu1.jpeg](./iu1.jpeg)
 
-![ui](./iu2.jpeg)
+![iu2](./iu2.jpeg)
